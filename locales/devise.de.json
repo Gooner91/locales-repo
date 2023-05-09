@@ -4,7 +4,7 @@
       "attributes": {
         "user": {
           "confirmation_sent_at": "Bestätigung gesendet am",
-          "confirmation_token": "Bestätigungs-Token",
+          "confirmation_token": "Bestätigungs-Token--",
           "confirmed_at": "Bestätigt am",
           "created_at": "Erstellt am",
           "current_password": "Bisheriges Passwort",
